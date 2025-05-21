@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://melvinquick.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-05-20T16:03:16-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-05-20T16:03:16-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-05-20T16:03:16-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/categories/socials/</loc>
+    <loc>http://localhost:1313/categories/socials/</loc>
     <lastmod>2025-05-20T16:03:16-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/posts/socials/</loc>
+    <loc>http://localhost:1313/posts/socials/</loc>
     <lastmod>2025-05-20T16:03:16-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/tags/socials/</loc>
+    <loc>http://localhost:1313/tags/socials/</loc>
     <lastmod>2025-05-20T16:03:16-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-20T16:03:16-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/categories/about/</loc>
+    <loc>http://localhost:1313/categories/about/</loc>
     <lastmod>2025-05-20T15:29:33-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/posts/about/</loc>
+    <loc>http://localhost:1313/posts/about/</loc>
     <lastmod>2025-05-20T15:29:33-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/tags/about/</loc>
+    <loc>http://localhost:1313/tags/about/</loc>
     <lastmod>2025-05-20T15:29:33-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/tags/disk-cleanup/</loc>
+    <loc>http://localhost:1313/tags/disk-cleanup/</loc>
     <lastmod>2024-02-22T11:27:18-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/tags/powershell/</loc>
+    <loc>http://localhost:1313/tags/powershell/</loc>
     <lastmod>2024-02-22T11:27:18-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/posts/reset_windows_software_dsitribution_folder/</loc>
+    <loc>http://localhost:1313/posts/reset_windows_software_dsitribution_folder/</loc>
     <lastmod>2024-02-22T11:27:18-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/categories/windows/</loc>
+    <loc>http://localhost:1313/categories/windows/</loc>
     <lastmod>2024-02-22T11:27:18-04:00</lastmod>
   </url><url>
-    <loc>https://melvinquick.github.io/tags/windows/</loc>
+    <loc>http://localhost:1313/tags/windows/</loc>
     <lastmod>2024-02-22T11:27:18-04:00</lastmod>
   </url>
 </urlset>
