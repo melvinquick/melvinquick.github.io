@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Melvin Quick</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://melvinquick.github.io/tags/</link>
     <description>Recent content in Tags on Melvin Quick</description>
     <image>
       <title>Melvin Quick</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://melvinquick.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://melvinquick.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 May 2025 15:13:03 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://melvinquick.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/tags/resume/</link>
+      <link>https://melvinquick.github.io/tags/resume/</link>
       <pubDate>Tue, 27 May 2025 15:13:03 -0400</pubDate>
-      <guid>http://localhost:1313/tags/resume/</guid>
+      <guid>https://melvinquick.github.io/tags/resume/</guid>
       <description></description>
     </item>
     <item>
       <title>Socials</title>
-      <link>http://localhost:1313/tags/socials/</link>
+      <link>https://melvinquick.github.io/tags/socials/</link>
       <pubDate>Tue, 20 May 2025 16:03:16 -0400</pubDate>
-      <guid>http://localhost:1313/tags/socials/</guid>
+      <guid>https://melvinquick.github.io/tags/socials/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/tags/about/</link>
+      <link>https://melvinquick.github.io/tags/about/</link>
       <pubDate>Tue, 20 May 2025 15:29:33 -0400</pubDate>
-      <guid>http://localhost:1313/tags/about/</guid>
+      <guid>https://melvinquick.github.io/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Disk Cleanup</title>
-      <link>http://localhost:1313/tags/disk-cleanup/</link>
+      <link>https://melvinquick.github.io/tags/disk-cleanup/</link>
       <pubDate>Thu, 22 Feb 2024 11:27:18 -0400</pubDate>
-      <guid>http://localhost:1313/tags/disk-cleanup/</guid>
+      <guid>https://melvinquick.github.io/tags/disk-cleanup/</guid>
       <description></description>
     </item>
     <item>
       <title>Powershell</title>
-      <link>http://localhost:1313/tags/powershell/</link>
+      <link>https://melvinquick.github.io/tags/powershell/</link>
       <pubDate>Thu, 22 Feb 2024 11:27:18 -0400</pubDate>
-      <guid>http://localhost:1313/tags/powershell/</guid>
+      <guid>https://melvinquick.github.io/tags/powershell/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/tags/windows/</link>
+      <link>https://melvinquick.github.io/tags/windows/</link>
       <pubDate>Thu, 22 Feb 2024 11:27:18 -0400</pubDate>
-      <guid>http://localhost:1313/tags/windows/</guid>
+      <guid>https://melvinquick.github.io/tags/windows/</guid>
       <description></description>
     </item>
   </channel>
