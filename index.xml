@@ -2,22 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Melvin Quick</title>
-    <link>https://melvinquick.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Melvin Quick</description>
     <image>
       <title>Melvin Quick</title>
-      <url>https://melvinquick.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://melvinquick.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.147.3</generator>
+    <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 May 2025 16:03:16 -0400</lastBuildDate>
-    <atom:link href="https://melvinquick.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 May 2025 15:13:03 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/posts/resume/</link>
+      <pubDate>Tue, 27 May 2025 15:13:03 -0400</pubDate>
+      <guid>http://localhost:1313/posts/resume/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/melvinquick/&#34;&gt;&lt;img alt=&#34;resume&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/resume.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Socials</title>
-      <link>https://melvinquick.github.io/posts/socials/</link>
+      <link>http://localhost:1313/posts/socials/</link>
       <pubDate>Tue, 20 May 2025 16:03:16 -0400</pubDate>
-      <guid>https://melvinquick.github.io/posts/socials/</guid>
+      <guid>http://localhost:1313/posts/socials/</guid>
       <description>&lt;h2 id=&#34;socials&#34;&gt;Socials&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://anilist.co/user/KingKairos&#34;&gt;AniList&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://bsky.app/profile/melvinquick.com&#34;&gt;Bluesky&lt;/a&gt;&lt;br&gt;
@@ -37,16 +44,16 @@
     </item>
     <item>
       <title>About</title>
-      <link>https://melvinquick.github.io/posts/about/</link>
+      <link>http://localhost:1313/posts/about/</link>
       <pubDate>Tue, 20 May 2025 15:29:33 -0400</pubDate>
-      <guid>https://melvinquick.github.io/posts/about/</guid>
+      <guid>http://localhost:1313/posts/about/</guid>
       <description>&lt;p&gt;Melvin Quick is a driven and multifaceted individual with a strong foundation in mathematics, having earned his Bachelor&amp;rsquo;s degree from Slippery Rock University. This academic background has provided him with a solid understanding of problem-solving and analytical thinking, skills that he continues to apply in various aspects of his life. With a keen mind and a passion for learning, he is always looking for opportunities to grow and expand his knowledge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reset the SoftwareDistribution Folder Back to Stock in Windows</title>
-      <link>https://melvinquick.github.io/posts/reset_windows_software_dsitribution_folder/</link>
+      <link>http://localhost:1313/posts/reset_windows_software_dsitribution_folder/</link>
       <pubDate>Thu, 22 Feb 2024 11:27:18 -0400</pubDate>
-      <guid>https://melvinquick.github.io/posts/reset_windows_software_dsitribution_folder/</guid>
+      <guid>http://localhost:1313/posts/reset_windows_software_dsitribution_folder/</guid>
       <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
 &lt;p&gt;Sometimes you need to clear space on Windows machine and it&amp;rsquo;s not always obvious where you can save those bytes at. You may look for temp folders/files, games you can/should uninstall, or old profiles you can remove, but sometimes the easiest way is to cleanup the SoftwareDistribution Folder! This folder houses files that may be required for Windows Updates, such as hotfixes or cumulative updates. Sometimes though, this folder doesn&amp;rsquo;t get cleaned up like it shoud and leaves a lot of unnecessary files behind. The following is a step-by-step guide on how to clean up this folder and reset it back to stock so that you may claim that space for something better&amp;hellip; like more games!&lt;/p&gt;</description>
     </item>

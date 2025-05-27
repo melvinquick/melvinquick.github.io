@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Socials on Melvin Quick</title>
-    <link>https://melvinquick.github.io/tags/socials/</link>
+    <link>http://localhost:1313/tags/socials/</link>
     <description>Recent content in Socials on Melvin Quick</description>
     <image>
       <title>Melvin Quick</title>
-      <url>https://melvinquick.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://melvinquick.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.147.3</generator>
+    <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 May 2025 16:03:16 -0400</lastBuildDate>
-    <atom:link href="https://melvinquick.github.io/tags/socials/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/socials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Socials</title>
-      <link>https://melvinquick.github.io/posts/socials/</link>
+      <link>http://localhost:1313/posts/socials/</link>
       <pubDate>Tue, 20 May 2025 16:03:16 -0400</pubDate>
-      <guid>https://melvinquick.github.io/posts/socials/</guid>
+      <guid>http://localhost:1313/posts/socials/</guid>
       <description>&lt;h2 id=&#34;socials&#34;&gt;Socials&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://anilist.co/user/KingKairos&#34;&gt;AniList&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://bsky.app/profile/melvinquick.com&#34;&gt;Bluesky&lt;/a&gt;&lt;br&gt;
